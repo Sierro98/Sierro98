@@ -1,6 +1,4 @@
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-)}" />
-
+![image]({https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white})
 
 👋 ¡Hola, mundo!
 
