@@ -1,5 +1,10 @@
-![image]({https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white})
+## Table of contents / Tabla de contenidos
 
+- [ESP](#[ESP])
+- [ENG](#[ENG])
+
+### [ESP]
+---
 👋 ¡Hola, mundo!
 
 Soy Alejandro Sierro, un apasionado programador junior con un enfoque en tecnologías web y móviles.
@@ -18,3 +23,7 @@ Angular | Ionic | TypeScript | Java | Spring | Kotlin | Android | Flutter
 ¡Gracias por visitar mi perfil de GitHub!
 
 Happy coding! 🚀
+
+
+### [ENG]
+---
