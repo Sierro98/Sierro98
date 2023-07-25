@@ -27,3 +27,21 @@ Happy coding! 🚀
 
 ### [ENG]
 ---
+👋 Hello, world!
+
+I'm Alejandro Sierro, a passionate junior programmer with a focus on web and mobile technologies.
+
+💻 Technology Stack:
+Angular | Ionic | TypeScript | Java | Spring | Kotlin | Android | Flutter
+
+🚀 I thrive on facing challenges and continuously learning in the world of programming. With a strong background in web and mobile app development, I always strive for excellence and ensure quality in every line of code I write.
+
+💡 I'm constantly exploring new tools and technologies to take my work to the next level. I'm always open to collaborating on exciting projects and contributing my skills and knowledge.
+
+🌱 Currently, I'm working on expanding my knowledge and exploring opportunities for professional growth.
+
+📫 Don't hesitate to contact me if you have any questions or if you're interested in collaborating on an interesting project!
+
+Thank you for visiting my GitHub profile!
+
+Happy coding! 🚀
